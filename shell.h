@@ -13,5 +13,7 @@
 #include <errno.h>
 #define USE_GETLINE 0
 #define USE_STRTOK 0
+:
+
 #endif
 
